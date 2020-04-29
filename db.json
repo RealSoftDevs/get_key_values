@@ -1,12 +1,6 @@
-{  
-    "ch1_hsn": [  
-    { 
-       "hsn": "1"
 
-    }], 
-    "ch2_link": 
-    { 
-       "link": "1588180674~exp=1588183674~acl=/*~hmac=ee1b9813606717dfa02ab4e75a6d9231e79b254c5d4f30363415a635847994d7"
-
-    } 
-} 
+{
+  "name":"John",
+  "age":30,
+  "cars":[ "Ford", "BMW", "Fiat" ]
+}
